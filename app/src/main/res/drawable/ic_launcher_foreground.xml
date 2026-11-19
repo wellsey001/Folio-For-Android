@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Folio icon: a page with a folded corner and a bookmark ribbon. 108dp adaptive foreground. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFF8EE"
+        android:pathData="M38,30 L62,30 L74,42 L74,76 Q74,79 71,79 L38,79 Q35,79 35,76 L35,33 Q35,30 38,30 Z" />
+    <path
+        android:fillColor="#FFE9D9C2"
+        android:pathData="M62,30 L74,42 L65,42 Q62,42 62,39 Z" />
+    <path
+        android:fillColor="#FFCDB89C"
+        android:pathData="M42,50 L66,50 L66,53 L42,53 Z M42,58 L66,58 L66,61 L42,61 Z M42,66 L58,66 L58,69 L42,69 Z" />
+    <path
+        android:fillColor="#FF2A2420"
+        android:pathData="M43,30 L51,30 L51,44 L47,41 L43,44 Z" />
+</vector>
